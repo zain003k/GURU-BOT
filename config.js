@@ -14,9 +14,9 @@ global.owner = [
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['923456426779','923074060856'] 
-global.prems = ['923456426779', '923074060856', '919398758484']
-global.allowed = ['923456426779', '923074060856', '19152999993']
+global.mods = ['923074060856','923074060856'] 
+global.prems = ['923074060856', '923074060856', '919398758484']
+global.allowed = ['923074060856', '923074060856', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,16 +50,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '☆𝒉𝒂𝒃𝒊𝒃 𝒉𝒚𝒖𝒏𝒋𝒊𝒏المسلمين🇵🇸𓊉💙'
+global.botname = '𝐙𝐀𝐈𝐍✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏'
 global.premium = 'true'
-global.packname = '☆𝒉𝒂𝒃𝒊𝒃 𝒉𝒚𝒖𝒏𝒋𝒊𝒏المسلمين🇵🇸𓊉💙' 
-global.author = '@Asliguru' 
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
+global.packname = '𝐙𝐀𝐈𝐍✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏' 
+global.author = '@zainibhaii' 
+global.menuvid = 'https://ibb.co/DgNNCFL'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/zain_nawab97\n' 
 global.dygp = 'https://whatsapp.com/channel/0029Va8ymxS0QeabB7oATM3r'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgyt = 'https://youtube.com/@zainibhaii'
+global.fgpyp = 'https://youtube.com/@zainibhaii'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
